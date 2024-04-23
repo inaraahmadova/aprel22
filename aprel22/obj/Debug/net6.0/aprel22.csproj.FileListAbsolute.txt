@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\aprel22\aprel22\bin\Debug\net6.0\aprel22.exe
+C:\Users\Hp\Desktop\aprel22\aprel22\bin\Debug\net6.0\aprel22.deps.json
+C:\Users\Hp\Desktop\aprel22\aprel22\bin\Debug\net6.0\aprel22.runtimeconfig.json
+C:\Users\Hp\Desktop\aprel22\aprel22\bin\Debug\net6.0\aprel22.dll
+C:\Users\Hp\Desktop\aprel22\aprel22\bin\Debug\net6.0\aprel22.pdb
+C:\Users\Hp\Desktop\aprel22\aprel22\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.AssemblyInfo.cs
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.csproj.Up2Date
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.dll
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\refint\aprel22.dll
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.pdb
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\aprel22.genruntimeconfig.cache
+C:\Users\Hp\Desktop\aprel22\aprel22\obj\Debug\net6.0\ref\aprel22.dll

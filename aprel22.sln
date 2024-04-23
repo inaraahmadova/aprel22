@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprel22", "aprel22\aprel22.csproj", "{6AC42850-584D-4223-8A2E-B5359E2CD8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC42850-584D-4223-8A2E-B5359E2CD8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC42850-584D-4223-8A2E-B5359E2CD8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC42850-584D-4223-8A2E-B5359E2CD8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC42850-584D-4223-8A2E-B5359E2CD8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B86A9CC-427F-4E1B-A8F3-707051CDBC72}
+	EndGlobalSection
+EndGlobal
